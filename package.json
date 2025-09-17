@@ -1,0 +1,27 @@
+{
+  "name": "ai-doc-analyzer-vercel",
+  "version": "1.0.0",
+  "description": "AI Document Analyzer & Webhook Sender",
+  "scripts": {
+    "dev": "echo 'No dev script configured. Serve index.html statically.' && exit 1",
+    "build": "echo 'No build step required.' && exit 0"
+  },
+  "dependencies": {
+    "@google/genai": "^1.19.0",
+    "framer-motion": "^11.3.11",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
+    "@vercel/node": "^3.0.0",
+    "@vitejs/plugin-react": "^5.0.3",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.3.3",
+    "vite": "^7.1.5"
+  }
+}

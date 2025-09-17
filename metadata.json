@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Analyzer & Webhook Sender",
+  "description": "Upload PDF documents, have them analyzed and structured by AI, review the results, and send them to a webhook.",
+  "requestFramePermissions": []
+}

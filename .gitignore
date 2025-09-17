@@ -1,5 +1,4 @@
-# Crea el .gitignore
-echo "node_modules/
+node_modules/
 .env
 .env.local
 dist/
@@ -7,4 +6,4 @@ dist/
 .DS_Store
 .vscode/
 .idea/
-build/" > .gitignore
+build/
