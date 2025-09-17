@@ -1,0 +1,10 @@
+# Crea el .gitignore
+echo "node_modules/
+.env
+.env.local
+dist/
+*.log
+.DS_Store
+.vscode/
+.idea/
+build/" > .gitignore
