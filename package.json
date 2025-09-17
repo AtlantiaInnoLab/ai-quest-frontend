@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "AI Document Analyzer & Webhook Sender",
   "scripts": {
-    "dev": "echo 'No dev script configured. Serve index.html statically.' && exit 1",
-    "build": "echo 'No build step required.' && exit 0"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@google/genai": "^1.19.0",
