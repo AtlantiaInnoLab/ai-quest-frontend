@@ -1,8 +1,7 @@
 {
   "functions": {
     "api/analyze.ts": {
-      "maxDuration": 45,
-      "maxRequestBodySize": "10mb"
+      "maxDuration": 60
     }
   }
 }
